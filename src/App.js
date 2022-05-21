@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
       <Generative />
         <p>
-           va
+           Waves
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Holis
+          Mint :D
         </a>
 
       </header>
