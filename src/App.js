@@ -1,13 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import Generative from './sketches/Generative';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <Generative />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+           va
         </p>
         <a
           className="App-link"
@@ -15,8 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Holis
         </a>
+
       </header>
     </div>
   );
